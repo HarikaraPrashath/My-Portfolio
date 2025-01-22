@@ -55,6 +55,7 @@ export const PROJECTS = [
   {
     title: "RivoWeb E-commerce Application",
     image: RivoWeb,
+    gitHubLink : ["https://github.com/HarikaraPrashath/React-Spring_Boot-Project.git"],
     description:
       "This application is built with React and Tailwind CSS for a modern and visually appealing front-end, while the back-end is powered by Spring Boot.It features role-based authentication to ensure secure access and includes a basic CRUD system for managing product details. The back-end implements token-based authentication, with custom token creation, security configuration, and API filtering to allow only authorized requests.",
     technologies: ["React", "Tailwind", "Spring Boot", "My SQL"],
@@ -62,6 +63,7 @@ export const PROJECTS = [
   {
     title: "Rivo - E-commerce Application",
     image: RivoWeb,
+    gitHubLink : ["https://github.com/HarikaraPrashath/MERN_E-com_Basic_Function.git"],
     description:
       "This project application is a feature-rich platform designed with a focus on simplicity and efficiency. It incorporates role-based authentication to ensure secure access control, allowing administrators and users to have distinct privileges based on their roles. The platform supports image uploading to enhance content presentation, such asattaching images to products or profiles. Additionally, it features a basic CRUD system also",
     technologies: ["React","Tailwind", "Node js","Express js", "MongoDB"],
@@ -69,6 +71,7 @@ export const PROJECTS = [
   {
     title: "Fresh Leaf - Tea leaves sale and management",
     image: FreshLeaf,
+    gitHubLink : ["https://github.com/HarikaraPrashath/Fresh-Leaf-Web-.git"],
     description:
       "I developed the logo and most of the UI for a MERN-based tea sales and management web app. Using Tailwind CSS for styling, we created a smooth user interface. The app includes inventory, user, and product management systems, authentication, and allows the owner to download user and product details in PDF and Excel formats.",
     technologies: ["React", "Tailwind", "MongoDB", "Node js","Express js"],
@@ -76,6 +79,7 @@ export const PROJECTS = [
   {
     title: "Doctor Appointment - Booking Doctor website ",
     image: Doctor,
+    gitHubLink : ["https://github.com/HarikaraPrashath/Doctor-Appointment-.git"],
     description:
       "I developed a doctor appointment website using MERN stack technology.The platform allows users to find doctors, view detailed profiles, and securely pay to book appointments. It offers a seamless user experience for scheduling healthcare services..",
     technologies: ["React","Tailwind", "Node js","Express js", "MongoDB"],
@@ -83,6 +87,7 @@ export const PROJECTS = [
   {
     title: "Blogging Platform",
     image: Blog,
+    gitHubLink : ["https://github.com/HarikaraPrashath/Blog-Nextjs.git"],
     description:
       "This is a simple blog website at a basic level. The only purpose of this is to try to test my knowledge of Next.js in this user.Contact us using the contact form, and the search bar will work efficiently. ",
     technologies: ["Next js","Tailwind","MongoDB"],
@@ -90,6 +95,7 @@ export const PROJECTS = [
   {
     title: "Chat app - MERN",
     image: chat,
+    gitHubLink :["https://github.com/HarikaraPrashath/Chat-app.git"],
     description:
       "This is a simple chat app. This was created using MERN tech logos, especially since I was using the socket.io plugin, as it usually has an authentication part and a context part.",
     technologies: ["Next js","Tailwind","MongoDB"],
